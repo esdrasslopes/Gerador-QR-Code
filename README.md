@@ -13,7 +13,7 @@ O gerador de QR Code permite que os usuários:
 
 - `index.html`: Página principal que contém o formulário para entrada do texto e a área onde o QR Code é exibido.
 - `styles.css`: Arquivo de estilos para a aparência do gerador de QR Code.
-- `script.js`: Lógica de interação, manipulação de DOM e chamadas à API `goqr.me`.
+- `scripts.js`: Lógica de interação, manipulação de DOM e chamadas à API `goqr.me`.
 
 ## Tecnologias Utilizadas
 
