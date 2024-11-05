@@ -23,3 +23,4 @@ O gerador de QR Code permite que os usuários:
 
 ## Como Usar
 Acesse o link: https://esdrasslopes.github.io/Gerador-QR-Code/
+ 
